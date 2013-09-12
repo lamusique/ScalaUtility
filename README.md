@@ -1,0 +1,4 @@
+ScalaUtility
+============
+
+Utilities for Scala
